@@ -1,8 +1,15 @@
 
 <h2>Oláaa!!! Eu sou o Kevyn monteiro </h2>
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando ReactJS
+- 🔭 Me reconheço como um entusiasta em novas tecnologias do
+mercado, com aprendizado adquirido dia após dia. Me
+considero ágil e consistente em aprender uma nova
+linguagem e me adaptar a qualquer mudança pronto para
+superar qualquer desafio! Se eu pudesse me definir em 3
+palavras certamente seriam: otimista, perseverante e
+esforçado!
+
+- 🌱 Atualmente tenho estudado ReactJS.
 
 <div align="center">
   <a href="https://github.com/MonteiroKev">
